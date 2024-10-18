@@ -1,11 +1,10 @@
-     package:   ribbit.py
+     package:   fiveRoomDungeon.py
       author:   Charles J McDonald «cmcdonald@woonsocketschools.com»
-        date:   2024.10.12
-     version:   0.1
+        date:   2024.10.18
     maturity:   inDev
 
-# ribbit
-A reimagining of the game Bulls and Cows. Our version uses a swampy theme with frogs and toads.
-Open Source Software Template
+# fiveRoomDungeon
+A text-based adventure simulator based on Johnn Four's "Five Room Dungeon" concept.
+This is a summative assessment and culmanating project for our PTech class in coding.
 
 ### This work © 2024 by Charles J McDonald is licensed under CC BY-NC-SA 4.0
